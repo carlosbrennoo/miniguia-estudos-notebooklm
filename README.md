@@ -1,4 +1,4 @@
-# 📒 Caderno Temático — Tesouro Direto
+# Caderno Temático - Tesouro Direto
 > Desafio de Projeto | DIO — Uso do NotebookLM como ferramenta de aprendizagem ativa
 
 ---
@@ -23,13 +23,13 @@ Foram selecionadas **7 fontes abertas** e carregadas no NotebookLM:
 
 | # | Tipo | Fonte |
 |---|---|---|
-| 1 | 🎥 Vídeo | [YouTube — Introdução ao Tesouro Direto](https://www.youtube.com/watch?v=3-5Ujc5dyhE) |
-| 2 | 🎥 Vídeo | [YouTube — Como investir no Tesouro Direto](https://www.youtube.com/watch?v=y2sBkIX72-g) |
-| 3 | 🎥 Vídeo | [YouTube — Tipos de títulos do Tesouro Direto](https://www.youtube.com/watch?v=OOEssu7j5UQ) |
-| 4 | 📄 PDF | [Guia Fácil Tesouro Direto — André Massaro (2015)](https://www.andremassaro.com.br/wp-content/uploads/2020/06/Guia-Facil-Tesouro-Direto-Andre-Massaro-2015.pdf) |
-| 5 | 📄 PDF | [Artigo Acadêmico — Uninove (2013)](http://docs.uninove.br/arte/fac/publicacoes/pdf/v4-n1-2013/Ana_Bruna.pdf) |
-| 6 | 📄 PDF | [Guia de Produto Tesouro Direto — Agora Invest](https://agorainvest.com.br/uploads/ns/pdf/prodtesourodireto.pdf) |
-| 7 | 📄 PDF | [Manual do App Tesouro Direto — Governo Federal](https://www.gov.br/tesouronacional/pt-br/importacao-arquivos/Manual-do-app-do-tesouro-direto.pdf) |
+| 1 | Vídeo | [YouTube — Introdução ao Tesouro Direto](https://www.youtube.com/watch?v=3-5Ujc5dyhE) |
+| 2 | Vídeo | [YouTube — Como investir no Tesouro Direto](https://www.youtube.com/watch?v=y2sBkIX72-g) |
+| 3 | Vídeo | [YouTube — Tipos de títulos do Tesouro Direto](https://www.youtube.com/watch?v=OOEssu7j5UQ) |
+| 4 | PDF | [Guia Fácil Tesouro Direto — André Massaro (2015)](https://www.andremassaro.com.br/wp-content/uploads/2020/06/Guia-Facil-Tesouro-Direto-Andre-Massaro-2015.pdf) |
+| 5 | PDF | [Artigo Acadêmico — Uninove (2013)](http://docs.uninove.br/arte/fac/publicacoes/pdf/v4-n1-2013/Ana_Bruna.pdf) |
+| 6 | PDF | [Guia de Produto Tesouro Direto — Agora Invest](https://agorainvest.com.br/uploads/ns/pdf/prodtesourodireto.pdf) |
+| 7 | PDF | [Manual do App Tesouro Direto — Governo Federal](https://www.gov.br/tesouronacional/pt-br/importacao-arquivos/Manual-do-app-do-tesouro-direto.pdf) |
 
 ---
 
@@ -39,7 +39,7 @@ Abaixo estão documentados todos os prompts testados, as respostas obtidas, as f
 
 ---
 
-### 🔹 Prompt 1 — Conceito básico
+###  Prompt 1 - Conceito básico
 
 **Pergunta inicial:**
 > "O que é tesouro direto?"
@@ -60,7 +60,7 @@ O prompt reformulado resolveu o problema. A lição aprendida foi que delimitar 
 
 ---
 
-### 🔹 Prompt 2 — Tipos de títulos
+###  Prompt 2 - Tipos de títulos
 
 **Pergunta:**
 > "Quais são os tipos de títulos disponíveis no Tesouro Direto e qual a diferença entre eles?"
@@ -84,7 +84,7 @@ A resposta foi completa, porém o NotebookLM detalhou cada tipo mesmo sem ser so
 
 ---
 
-### 🔹 Prompt 3 — Rendimento na prática
+###  Prompt 3 - Rendimento na prática
 
 **Pergunta:**
 > "Se eu investir R$ 1.000 no Tesouro Selic hoje, como funciona o rendimento? Explique de forma simples, sem voltas."
@@ -102,7 +102,7 @@ Melhor resposta obtida até então. A instrução "sem voltas" funcionou bem par
 
 ---
 
-### 🔹 Prompt 4 — Erros comuns
+###  Prompt 4 - Erros comuns
 
 **Pergunta:**
 > "Quais são os erros mais comuns de quem está começando a investir no Tesouro Direto?"
@@ -123,7 +123,7 @@ Percebeu-se uma evolução clara no comportamento do NotebookLM ao longo das per
 
 ---
 
-### 🔹 Prompt 5 — Glossário
+###  Prompt 5 - Glossário
 
 **Pergunta:**
 > "Liste apenas os principais termos do Tesouro Direto com uma explicação bem simples para cada um deles."
@@ -140,7 +140,7 @@ A resposta foi extensa, porém adequada ao objetivo. Cada termo recebeu uma expl
 
 ## 4. Miniguia de Estudo
 
-### 📌 Resumos Estruturados
+###  Resumos Estruturados
 
 #### O que é o Tesouro Direto?
 O Tesouro Direto é um programa do Governo Federal criado em 2002, em parceria com a B3, que permite a qualquer pessoa física comprar títulos públicos pela internet. Ao investir, o cidadão empresta dinheiro ao governo, que usa esses recursos para financiar áreas como saúde e educação. Em troca, recebe o valor investido de volta com juros em uma data futura. É considerado o investimento mais seguro do Brasil, com garantia integral do Tesouro Nacional.
@@ -164,7 +164,7 @@ O rendimento varia conforme o título escolhido. No Tesouro Selic, por exemplo, 
 
 ---
 
-### 📖 Glossário
+###  Glossário
 
 | Termo | Definição simples |
 |---|---|
@@ -187,7 +187,7 @@ O rendimento varia conforme o título escolhido. No Tesouro Selic, por exemplo, 
 
 ---
 
-### 🔁 Prompts Reutilizáveis
+###  Prompts Reutilizáveis
 
 Use estes prompts em futuras revisões sobre Tesouro Direto ou adapte para outros temas financeiros:
 
